@@ -1,1 +1,1 @@
-This is an academic intro of Yidong Guo.
+Personal website
